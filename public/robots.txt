@@ -1,0 +1,8 @@
+User-agent: *
+Allow: /
+
+# Sitemap
+Sitemap: https://plugai.vercel.app/sitemap.xml
+
+# Optimized crawl delay for better indexing
+Crawl-delay: 1
